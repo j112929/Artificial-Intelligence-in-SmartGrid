@@ -1,4 +1,4 @@
-# SmartGrid-PowerLoadPrediction
+# Use AI for Power Load Prediction & Optimization
 
 This project analyzes load and temperature data from 20 load zones and 11 temperature 
 stations across the US to explore patterns and correlations between temperature and energy load values.
